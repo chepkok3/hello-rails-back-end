@@ -132,6 +132,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/chepkok3/hello-rails-back-end/blob/setup/MIT%20License) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
