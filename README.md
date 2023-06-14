@@ -24,7 +24,7 @@
 
 ### Frontend Repository
 
-- <a href="https://github.com/chepkok3/hello-react-front-end">React Link</a>
+- <a href="https://github.com/chepkok3/hello-react-front-end">React App Link</a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
